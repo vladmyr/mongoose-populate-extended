@@ -1,0 +1,1 @@
+module.exports = require("./plugin/mongoose-populate-extended");

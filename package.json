@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-populate-extended",
+  "version": "0.0.1",
+  "description": "Plugin extension for Mongoose 4+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Volodymyr Khytskyi"
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "join",
+    "mongoose",
+    "mongoose-populate-extended",
+    "populate",
+    "population",
+    "extension",
+    "extended",
+    "plugin"
+  ],
+  "license": "MIT"
+}
