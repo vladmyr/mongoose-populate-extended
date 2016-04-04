@@ -1,6 +1,6 @@
 {
   "name": "mongoose-populate-extended",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mongoose 4+ plugin to perform population into schema's virtual property",
   "main": "index.js",
   "scripts": {
