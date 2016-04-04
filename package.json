@@ -1,7 +1,7 @@
 {
   "name": "mongoose-populate-extended",
-  "version": "0.0.1",
-  "description": "Plugin extension for Mongoose 4+",
+  "version": "0.0.2",
+  "description": "Mongoose 4+ plugin to perform population into schema's virtual property",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
