@@ -37,7 +37,7 @@ Model.populate(models, "propId", function (err, _models) {
 	// _models are equal to models and are populated with propId reference
 	_models.forEach(function (model) {
 		// model.propId is left intact
-		// model.prop contaion populated document
+		// model.prop contains populated document
 	});
 })
 ```
@@ -46,7 +46,7 @@ On an instance of `Model`:
 model.populate("propId", function (err, _model) {
 	// _model is equal to model and is populated with propId reference
 	// _model.propId is left intact
-	// _model.prop contaion populated document
+	// _model.prop contains populated document
 })
 ```
 On a `Query`:
