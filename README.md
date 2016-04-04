@@ -1,5 +1,7 @@
 __Mongoose 4+__ plugin to perform population into schema's virtual property.
 
+[![NPM](https://nodei.co/npm/mongoose-populate-extended.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/mongoose-populate-extended/)
+
 ### Description
 Mongoose ODM population does not provide an ability to populate documents into custom defined virtual property. This plugin enchances population functionality to provide such.
 
@@ -16,7 +18,7 @@ var schema = new Schema({
 	propId: {
 		type: mongoose.Schema.Types.ObjectId,
 		ref: "Reference",
-		asVirtual: "prop"		// populate into `prop` virtual property
+		asVirtual: "prop"	// populate into `prop` virtual property
 	}
 })
 

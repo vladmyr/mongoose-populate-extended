@@ -9,9 +9,13 @@
   "author": {
     "name": "Volodymyr Khytskyi"
   },
-  "homepage": "",
+  "homepage": "https://github.com/vladmyr/mongoose-populate-extended",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladmyr/mongoose-populate-extended"
+  },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/vladmyr/mongoose-populate-extended/issues"
   },
   "keywords": [
     "join",
